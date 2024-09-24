@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\linhdzi\\source\\repos\\bt1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|c:\\users\\linhdzi\\source\\repos\\bt1\\bt1\\bt1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|solutionrelative:bt1\\bt1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|c:\\users\\linhdzi\\source\\repos\\bt1\\bt1\\controllers\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|solutionrelative:bt1\\controllers\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|c:\\users\\linhdzi\\source\\repos\\bt1\\bt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|solutionrelative:bt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|c:\\users\\linhdzi\\source\\repos\\bt1\\bt1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|solutionrelative:bt1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|c:\\users\\linhdzi\\source\\repos\\bt1\\bt1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|solutionrelative:bt1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|c:\\users\\linhdzi\\source\\repos\\bt1\\bt1\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|solutionrelative:bt1\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|c:\\users\\linhdzi\\source\\repos\\bt1\\bt1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|solutionrelative:bt1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|c:\\users\\linhdzi\\source\\repos\\bt1\\bt1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|solutionrelative:bt1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|c:\\users\\linhdzi\\source\\repos\\bt1\\bt1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{314D06A4-F1E0-48F0-B6B4-65FA56432E84}|bt1\\bt1.csproj|solutionrelative:bt1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bt1",
+              "DocumentMoniker": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\bt1.csproj",
+              "RelativeDocumentMoniker": "bt1\\bt1.csproj",
+              "ToolTip": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\bt1.csproj",
+              "RelativeToolTip": "bt1\\bt1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T08:10:43.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "bt1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "bt1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T08:08:29.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "bt1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\appsettings.Development.json",
+              "RelativeToolTip": "bt1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T08:08:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "bt1\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "bt1\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:07:56.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "bt1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "bt1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:30:00.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "bt1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Models\\Product.cs",
+              "RelativeToolTip": "bt1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:27:43.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Controllers\\Projects.cs",
+              "RelativeDocumentMoniker": "bt1\\Controllers\\Projects.cs",
+              "ToolTip": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Controllers\\Projects.cs",
+              "RelativeToolTip": "bt1\\Controllers\\Projects.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:21:06.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Program.cs",
+              "RelativeDocumentMoniker": "bt1\\Program.cs",
+              "ToolTip": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\Program.cs",
+              "RelativeToolTip": "bt1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:16:43.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\appsettings.json",
+              "RelativeDocumentMoniker": "bt1\\appsettings.json",
+              "ToolTip": "C:\\Users\\linhdzi\\source\\repos\\bt1\\bt1\\appsettings.json",
+              "RelativeToolTip": "bt1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T07:19:05.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
